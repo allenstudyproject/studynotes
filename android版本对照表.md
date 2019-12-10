@@ -1,3 +1,11 @@
 |版本|API|versionCode|
 |:----:|:----:|:----:|
 |Android10|29|Q|
+|Android9|28|Pie|
+|Android8.1|27|O_MR1|
+|Android8|26|O|
+|Android7.1|25|N_MR1|
+|Android7.0|24|N|
+|Android6.0|23|M|
+|Android5.1|22|LOLLIPOP_MR1|
+|Android5.0|21|LOLLIPOP|
